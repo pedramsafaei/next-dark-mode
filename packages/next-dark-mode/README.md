@@ -8,7 +8,7 @@
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/next-dark-mode?style=for-the-badge)](https://bundlephobia.com/result?p=next-dark-mode)
 [![npm version](https://img.shields.io/npm/v/next-dark-mode?style=for-the-badge)](https://www.npmjs.com/package/next-dark-mode)
 
-<img src="./assets/next-dark-mode.gif" />
+<img src="assets/next-dark-mode.gif" />
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## Features
 
-<img align="right" width="50%" src="./assets/feature-auto.gif" />
+<img align="right" width="50%" src="assets/feature-auto.gif" />
 
 ### Auto mode
 
@@ -33,7 +33,7 @@
 
 It is achieved via `prefers-color-scheme` media query.
 
-<img align="right" width="50%" src="./assets/feature-cookies.gif" />
+<img align="right" width="50%" src="assets/feature-cookies.gif" />
 
 ### No page load glitch
 
